@@ -1,2 +1,3 @@
-config:cccccccc
+server:
+  port: 3344
  
