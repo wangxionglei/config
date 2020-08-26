@@ -1,5 +1,2 @@
-spring:
-  application:
-    name: cloud-config-clite1111
 config:
-    info:xxx
+  info:"123"
