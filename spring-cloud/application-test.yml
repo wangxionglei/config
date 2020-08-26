@@ -2,4 +2,4 @@ spring:
   application:
     name: cloud-config-clite1111
 config:
-  name:xxx
+    info:xxx
